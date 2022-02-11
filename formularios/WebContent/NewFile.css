@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+
+.c-tooltip__icon {
+    color: #ff6200;
+    cursor: pointer;
+    width: 1em;
+    height: 1em;
+    margin-bottom: 4px;
+
+}
+
+.boton{
+	border: 2px solid #ff6200;
+	background-color: #ff6200;
+	color:white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 130px;
+	padding-right: 130px;
+}
+
+.ayuda{
+	color:orange;
+	width: 20px;
+	height: 20px;
+}
+
+.botoncuenta{
+	border: 2px solid #4c6f00;
+	background-color: #4c6f00;
+	color:white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 130px;
+	padding-right: 130px;
+}
+
+.nombreuno{
+	height:60px;
+	width:250px;		
+	margin-right: 37px
+}
+
+.nombredos{
+	height:60px;
+	width:250px;
+	margin-top: 37px
+}
+
+.nombretres{
+	height:60px;
+	width:250px;
+	margin-right: 37px
+	
+}
+
+.nombrecuatro{
+	height:60px;
+	width:250px;
+	margin-top: 37px
+	
+}
+
+.nombrecinco{
+	height:60px;
+	width:250px;
+	margin-right: 37px
+	
+}
+.nombreseis{
+	height:60px;
+	width:250px;
+	margin-top: 37px
+}
+
+
+
+.Nombre{
+		height:60px;
+		width:550px;
+	
+}
+
+
+.uno{
+	height:35px;
+	width:250px;
+	
+}
+
+.flecha{
+
+color:orange;
+font-size:1.5em;
+vertical-align:middle;
+font-weight:bold;
+}
+
+.fecha{
+padding:10px 30px 10px 30px;
+}
+.tipo{
+	position: relative;
+	top:80px;
+	font-weight: bold;
+}
